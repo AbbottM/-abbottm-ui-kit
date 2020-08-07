@@ -79,7 +79,7 @@
   ],
   "dependencies": {
     "@types/swiper": "^4.4.3",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "csstype": "^2.6.5",
     "formik": "^1.5.8",
