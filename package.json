@@ -90,6 +90,6 @@
     "react-sticky-fill": "^0.8.4",
     "react-tooltip": "^3.10.0",
     "reflect-metadata": "^0.1.13",
-    "swiper": "^4.5.0"
+    "swiper": "^6.5.1"
   }
 }
